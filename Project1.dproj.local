@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/04/11 19:59:28.000.953,=C:\Users\prisc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/04/11 20:00:09.000.467,=C:\Users\prisc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/04/11 20:00:39.000.174,C:\Users\prisc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\prisc\OneDrive\Documentos\pokedex\PokedexDelphi.pas</Transaction>
+    <Transaction>2025/04/11 20:00:39.000.174,C:\Users\prisc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\prisc\OneDrive\Documentos\pokedex\PokedexDelphi.dfm</Transaction>
+    <Transaction>2025/04/11 20:36:13.000.078,C:\Users\prisc\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\prisc\OneDrive\Documentos\pokedex\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
